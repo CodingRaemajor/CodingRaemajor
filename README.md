@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth
 - 👀 I’m interested in Coding
-- 🌱 I’m learning C++
+- 🌱 I’m currently learning C++
 
 <!---
 CodingRaemajor/CodingRaemajor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
