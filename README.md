@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Parth
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
--  3D -Coding Designer
--  Python Coder 
--  Learning AI and Machine Learning (KeyConcepts)
-<!---
-CodingRaemajor/CodingRaemajor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm @Parth
+
+## 🚀 About Me
+- 💻 **Interested in Coding and Software Development**
+- 🌱 **Currently learning C++ and Python**
+- 🎨 **3D Designer (AutoCAD & Blender)**
+- 🤖 **Exploring AI & Machine Learning (Key Concepts)**
+
+## 🛠️ Skills
+- Programming: `C++`, `Python`
+- Designing: `AutoCAD`, `3D Modeling`
+- AI/ML: Basics of Machine Learning and NLP
+
+## 📫 Connect with me
+- GitHub: [@CodingRaemajor](https://github.com/CodingRaemajor)
+---
+
+⭐ _CodingRaemajor is a special repository because its `README.md` appears on your GitHub profile._
