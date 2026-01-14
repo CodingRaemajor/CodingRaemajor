@@ -103,7 +103,7 @@ LLMs • NLP • Embeddings • RAG • Vector Search
 - **GitHub:** [@CodingRaemajor](https://github.com/CodingRaemajor)  
 - **Email:** [iparth2166@gmail.com](mailto:iparth2166@gmail.com)  
 - **LinkedIn:** [Parth Patel](https://www.linkedin.com/in/parth-patel-4036272a4/)  
-- **Portfolio:** [parth-portfolio-main.vercel.app](parth-portfolio-main.vercel.app)
+- **Portfolio:** [parth-portfolio-main.vercel.app](https://parth-portfolio-main.vercel.app/)
 
 ---
 
