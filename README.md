@@ -2,7 +2,7 @@
 
 # Parth Patel
 
-### Computer Science Student • AI/ML & EdTech Developer • Product-Focused Builder
+### Software Systems Engineering Student • AI/ML & EdTech Developer • Product-Focused Builder
 
 I build practical AI systems, offline-first learning products, and full-stack applications designed for real users and real-world constraints.
 
@@ -16,7 +16,7 @@ I build practical AI systems, offline-first learning products, and full-stack ap
 
 ## About Me
 
-I am a **Computer Science student at the University of Regina** focused on turning ambitious ideas into usable software. My work spans **artificial intelligence, mobile development, EdTech, healthcare technology, cybersecurity, and applied machine learning**.
+I am a **Software Systems Engineering student at the University of Regina** focused on turning ambitious ideas into usable software. My work spans **artificial intelligence, mobile development, EdTech, healthcare technology, cybersecurity, and applied machine learning**.
 
 I am especially interested in systems that are:
 
