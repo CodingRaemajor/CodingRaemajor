@@ -1,112 +1,152 @@
-# 👋 Hey, I'm Parth Patel
+<div align="center">
 
-> **Engineering Student @ University of Regina • AI & EdTech Builder • Machine Learning Enthusiast**
+# Parth Patel
 
-I’m a Computer Science student who loves turning ideas into real, usable products — from **offline-first learning apps** to **AI-powered chatbots**, **healthcare tools**, and **security-focused systems**.
+### Computer Science Student • AI/ML & EdTech Developer • Product-Focused Builder
 
-I build things that are:
-- **Smart** – LLMs, vector search, adversarial AI  
-- **Practical** – real users, real workflows, real constraints  
-- **Accessible** – offline, low-resource, student-friendly  
+I build practical AI systems, offline-first learning products, and full-stack applications designed for real users and real-world constraints.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://parth-portfolio-main.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-patel-4036272a4/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iparth2166@gmail.com)
 
-## 🚀 What I’m Building
-
-- **📚 Offklass** – Offline-first, multilingual learning app for Grades 3–11  
-  React Native + local LLM (llama.cpp with Phi-2 / Qwen-3B), flashcards, quizzes, and video lessons that work **without internet**.
-
-- **🤖 Askian AI** – RAG-based chatbot for University of Regina resources  
-  Next.js + TypeScript + embeddings + retrieval, built to answer student questions with **citations** from official U of R sites.
-
-- **🩺 MediLink AI** – Remote diagnosis & emergency alert system  
-  Streamlit + AWS (SNS, DynamoDB) to help rural communities triage symptoms and send automated alerts.
-
-- **🧠 MindScope AI** – Mental health text understanding with vector search  
-  86k+ posts embedded and indexed in **MongoDB Atlas Vector Search** for semantic querying.
-
-- **🛡️ FraudGuardAI** – Phishing & email threat detection  
-  AI + security project focused on **adversarial AI** and detecting malicious emails and links.
-
-- **📈 StockMarketBot V2** – Analytics & portfolio assistant  
-  Advanced charting, portfolio tracking, and alerting for price action & RSI-based triggers.
-
-- **📡 IoT Anomaly Detector** – Real-time anomaly detection for sensor data  
-  Uses ML to flag abnormal patterns in IoT streams.
-
-- **💬 UnknownAI** – Flask-based knowledge bot  
-  A ChatGPT-like assistant powered by curated knowledge and custom prompts.
+</div>
 
 ---
 
-## 🧠 Domains I Love
+## About Me
 
-- **AI & Machine Learning**
-  - LLMs, embeddings, RAG, vector search  
-  - NLP and text classification  
-  - Adversarial AI & security-aware systems  
+I am a **Computer Science student at the University of Regina** focused on turning ambitious ideas into usable software. My work spans **artificial intelligence, mobile development, EdTech, healthcare technology, cybersecurity, and applied machine learning**.
 
-- **Cybersecurity**
-  - Phishing detection  
-  - Secure data handling & system design  
+I am especially interested in systems that are:
 
-- **EdTech & Accessibility**
-  - Offline-first apps for students  
-  - Multilingual learning experiences  
+- **Intelligent** — LLMs, retrieval-augmented generation, embeddings, vector search, and machine learning
+- **Practical** — built around real workflows, measurable needs, and deployment constraints
+- **Accessible** — offline-capable, multilingual, privacy-conscious, and usable on lower-resource devices
 
-- **3D & Design**
-  - 3D visualization, UI/UX thinking  
-  - AutoCAD + Blender for creative & technical design  
+My current priority is building and improving **Offklass**, an offline-first learning platform that brings on-device AI tutoring to students without requiring continuous internet access.
 
----
+## Current Focus
 
-## 🛠️ Technical Skills
+- On-device and offline AI inference for Android
+- Retrieval-augmented generation with reliable source citations
+- AI-assisted educational experiences for younger learners
+- Secure and privacy-conscious AI product design
+- Production-ready React, Next.js, and React Native applications
+- Project leadership, product planning, and technical execution
 
-**Languages**  
-`C++` • `Python` • `JavaScript` • `TypeScript`
+## Selected Projects
 
-**Frontend & Mobile**  
-`React` • `Next.js 14` • `React Native / Expo` • `Tailwind CSS`
+| Project | What it does | Core technologies |
+| --- | --- | --- |
+| [**Offklass**](https://github.com/CodingRaemajor/offklass-expo) | Offline-first, multilingual learning platform for Grades 3–11. The current MVP focuses on Grade 4 Mathematics with local AI tutoring, videos, quizzes, and flashcards. | React Native, Expo, TypeScript, `llama.rn`, `llama.cpp`, SmolLM2, Qwen2.5 |
+| [**Askian AI**](https://github.com/CodingRaemajor/AskianBeta) | RAG-based assistant for University of Regina resources, designed to answer student questions using retrieved information and source citations. | Next.js, TypeScript, embeddings, vector retrieval, RAG |
+| [**MediLink AI**](https://github.com/CodingRaemajor/MediLinkAI) | Healthcare support platform for symptom triage, emergency alerts, and rural-access workflows. | Python, Streamlit, AWS SNS, DynamoDB |
+| [**MindScope AI**](https://github.com/CodingRaemajor/MindScopeAI) | Mental-health text exploration system using semantic retrieval across more than 86,000 indexed posts. | Python, NLP, embeddings, MongoDB Atlas Vector Search |
+| [**FraudGuardAI**](https://github.com/CodingRaemajor/FraudGuardAI) | AI-assisted fraud, phishing, and suspicious-message support system developed through Salesforce Agentforce workflows. | Salesforce Agentforce, AI workflows, security-focused design |
+| [**IoT Anomaly Detector**](https://github.com/CodingRaemajor/IoT_Anomaly_Detector) | Machine-learning system for identifying unusual patterns in real-time sensor data. | Python, machine learning, streaming data |
+| [**StockMarketBot**](https://github.com/CodingRaemajor/StockMarketBot) | Market analytics and portfolio-assistance project with technical indicators, charting, and alert workflows. | Python, financial data, analytics, automation |
+| [**ClinicQ**](https://github.com/CodingRaemajor/reginahealthcare) | Local healthcare queue-management concept built for UR HACKS. | Full-stack development, healthcare workflow design |
 
-**Backend & APIs**  
-`FastAPI` • `Flask` • `Node.js` • `REST APIs`
+## Technical Skills
 
-**AI / ML**  
-LLMs • NLP • Embeddings • RAG • Vector Search  
-`OpenAI API` • `llama.cpp` • Offline / quantized models  
+### Languages
 
-**Data & Cloud**  
-`MongoDB` (incl. Atlas Vector Search) • `PostgreSQL`  
-`AWS` (SNS, DynamoDB, EC2 basics) • `Google Cloud` (hackathons)
+`Python` `TypeScript` `JavaScript` `C++`
 
-**Tools & Platforms**  
-`Git` • `GitHub` • `GitHub Pages` • `Vercel`  
-`Streamlit` • `Salesforce Agentforce`  
-`VS Code` • `Android Studio`
+### AI and Machine Learning
 
-**Design & 3D**  
-`AutoCAD` • `Blender` • 3D visualization & basic UI/UX  
+`LLMs` `NLP` `Embeddings` `RAG` `Vector Search` `Text Classification` `Adversarial AI` `Quantized Models` `llama.cpp` `OpenAI API`
 
----
+### Frontend and Mobile
 
-## 🏆 Hackathons & Highlights
+`React` `Next.js` `React Native` `Expo` `Tailwind CSS` `Responsive UI` `Mobile Development`
 
-- Built **ClinicQ** for UR HACKS (local healthcare queue management).  
-- Participated in **Salesforce Agentforce Hackathon** (FraudGuardAI / MediLink AI).  
-- Worked on **Perplexity** and **Google Cloud + MongoDB** AI challenges.  
-- Constantly iterating on **Offklass** & **Askian AI** as real, production-ready products.
+### Backend and Data
 
----
+`FastAPI` `Flask` `Node.js` `REST APIs` `MongoDB` `MongoDB Atlas Vector Search` `PostgreSQL` `AsyncStorage`
 
-## 📬 Let’s Connect
+### Cloud and Platforms
 
-- **GitHub:** [@CodingRaemajor](https://github.com/CodingRaemajor)  
-- **Email:** [iparth2166@gmail.com](mailto:iparth2166@gmail.com)  
-- **LinkedIn:** [Parth Patel](https://www.linkedin.com/in/parth-patel-4036272a4/)  
+`AWS` `Google Cloud` `Vercel` `Salesforce Agentforce` `GitHub Pages`
+
+### Developer Tools
+
+`Git` `GitHub` `VS Code` `Android Studio` `Streamlit`
+
+### Design and 3D
+
+`AutoCAD` `Blender` `3D Visualization` `UI/UX Prototyping`
+
+## Areas of Interest
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI Systems
+
+- Local and cloud LLMs
+- RAG and semantic retrieval
+- AI agents and orchestration
+- Evaluation and reliability
+
+</td>
+<td width="33%" valign="top">
+
+### Accessible Technology
+
+- Offline-first products
+- Multilingual learning
+- Low-connectivity deployment
+- Privacy-focused design
+
+</td>
+<td width="33%" valign="top">
+
+### Security and Applied ML
+
+- Phishing detection
+- Adversarial AI
+- Anomaly detection
+- Secure data workflows
+
+</td>
+</tr>
+</table>
+
+## Highlights
+
+- Building **Offklass** as a real Android learning product with offline media and on-device AI
+- Developed **ClinicQ** for **UR HACKS** to explore local healthcare queue management
+- Built **FraudGuardAI** through the **Salesforce Agentforce Hackathon**
+- Worked on AI challenges involving **Perplexity**, **Google Cloud**, and **MongoDB**
+- Contributed to projects across EdTech, healthcare, cybersecurity, finance, and IoT
+- Continuously improving product management, system architecture, and team leadership skills
+
+## How I Work
+
+I prefer projects where technology solves a clear problem rather than existing only as a demonstration. My development process emphasizes:
+
+1. Understanding the user and operating environment
+2. Building the smallest useful version of the product
+3. Testing on real devices and realistic workflows
+4. Improving reliability, usability, and performance
+5. Documenting decisions so the project can scale beyond one developer
+
+## Connect
+
 - **Portfolio:** [parth-portfolio-main.vercel.app](https://parth-portfolio-main.vercel.app/)
+- **LinkedIn:** [Parth Patel](https://www.linkedin.com/in/parth-patel-4036272a4/)
+- **GitHub:** [@CodingRaemajor](https://github.com/CodingRaemajor)
+- **Email:** [iparth2166@gmail.com](mailto:iparth2166@gmail.com)
 
 ---
 
-> *“Code is the closest thing we have to magic — and I’m here to master it.”*
+<div align="center">
 
-⭐ *Explore my repos, follow the journey, and reach out if you want to collaborate on AI, EdTech, or security-focused projects.*
+### Building intelligent products that remain useful beyond perfect connectivity.
+
+Open to collaborations involving **AI, EdTech, mobile development, accessibility, and security-focused systems**.
+
+</div>
